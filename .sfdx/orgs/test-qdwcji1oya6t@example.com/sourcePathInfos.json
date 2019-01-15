@@ -1,0 +1,182 @@
+[
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545142979142,
+            "changeTime": 1545142979142,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545142979142,
+            "changeTime": 1545142979142,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545147629650,
+            "changeTime": 1545147629650,
+            "contentHash": "8d172763c2c41e10643799e3ffc7a5695d93787c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545142979143,
+            "changeTime": 1545142979143,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545143487417,
+            "changeTime": 1545143487417,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1545147617843,
+            "changeTime": 1545147617843,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545147617843,
+            "changeTime": 1545147617843,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545147653319,
+            "changeTime": 1545147653319,
+            "contentHash": "553f34d32bf56c9800afaad01788d2164cc71cc1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545147653326,
+            "changeTime": 1545147653326,
+            "contentHash": "71f6886877dd4e41d7ee428e22af305dba16d36c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc\\myFirstLwc.html",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc\\myFirstLwc.html",
+            "isDirectory": false,
+            "size": 135,
+            "modifiedTime": 1545151981400,
+            "changeTime": 1545151981400,
+            "contentHash": "71ebb3059b2a7261c32c96389004c96a1f94d390",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc\\myFirstLwc.js",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc\\myFirstLwc.js",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1545147653320,
+            "changeTime": 1545147653320,
+            "contentHash": "39a82d7714dc1025dabd6defae5778f911100910",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc\\myFirstLwc.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sadavd1\\LWC_Playground\\force-app\\main\\default\\lwc\\myFirstLwc\\myFirstLwc.js-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1545147653322,
+            "changeTime": 1545147653322,
+            "contentHash": "e0ffd00975b4d356eccd350c39cf8163b5c3482d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]
